@@ -1,0 +1,8 @@
+governance/
+├── vision/
+├── roadmap/
+├── architecture-board/
+├── risks/
+├── decisions/
+├── compliance/
+└── quality/
