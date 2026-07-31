@@ -1,42 +1,35 @@
-# Properties Module
+# Marketing Module
 
 ## Objetivo
 
-Gerenciar todo o ciclo de vida dos imóveis.
+Gerenciar a divulgação dos imóveis e a geração de leads através de canais digitais.
 
 ## Responsabilidades
 
-- Cadastro de imóveis
-- Fotos
-- Vídeos
-- Documentos
-- Localização
-- Geolocalização
-- Características
-- Status
-- Proprietário
-- Histórico
+- Publicação em portais imobiliários
+- Landing Pages
+- Campanhas de Marketing
+- Captação de Leads
+- Integração com Meta Ads
+- Integração com Google Ads
+- Integração com CRM
 
 ## Entidades
 
-- Property
-- PropertyAddress
-- PropertyImage
-- PropertyDocument
-- PropertyFeature
+- Campaign
+- LeadSource
+- LandingPage
+- Advertisement
 
 ## APIs
 
-- POST /properties
-- PUT /properties
-- DELETE /properties
-- GET /properties
+- POST /campaigns
+- GET /campaigns
+- POST /lead-source
 
 ## Eventos
 
-- PropertyCreated
-- PropertyUpdated
+- CampaignCreated
+- LeadCaptured
 - PropertyPublished
-- PropertySold
-- PropertyRented
   
