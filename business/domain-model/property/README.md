@@ -1,5 +1,15 @@
 # Property Domain
 
+| Document ID | DOM-PROP-001 |
+| Nome | Property Domain Overview |
+| Domínio | Property |
+| Categoria | Domain Model |
+| Versão | 1.0.0 |
+| Status | Draft |
+| Autor | Airton Assis |
+| Arquiteto | ChatGPT |
+| Última Atualização | 31/07/2026 |
+
 > Domain Owner: Real Estate Business Team
 >
 > Bounded Context: Property Management
