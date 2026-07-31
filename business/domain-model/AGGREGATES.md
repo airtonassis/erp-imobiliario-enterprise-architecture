@@ -1,0 +1,3 @@
+# Aggregate Root
+
+Property
