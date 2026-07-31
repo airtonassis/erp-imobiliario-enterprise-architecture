@@ -39,3 +39,4 @@ Gerenciar todo o ciclo de vida dos imóveis.
 - PropertyPublished
 - PropertySold
 - PropertyRented
+  
