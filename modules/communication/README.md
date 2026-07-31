@@ -27,3 +27,4 @@ Gerenciar todos os canais de comunicação com clientes e parceiros.
 
 - MessageSent
 - NotificationDelivered
+  

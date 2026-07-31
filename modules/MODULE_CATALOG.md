@@ -1,5 +1,4 @@
 | Módulo         | Objetivo                | Prioridade | Sprint |
-| -------------- | ----------------------- | ---------- | ------ |
 | Core           | Serviços compartilhados | Alta       | 1      |
 | Authentication | Login e Segurança       | Alta       | 1      |
 | Authorization  | Permissões              | Alta       | 1      |
