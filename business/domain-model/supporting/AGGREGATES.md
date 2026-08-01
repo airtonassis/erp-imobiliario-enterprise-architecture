@@ -1,7 +1,7 @@
 # Property Entities
 
 | Campo | Valor |
-| Document ID | DOM-REN-003|
+| Document ID | DOM-SUP-001|
 | Nome | Property Entities |
 | Domínio | Property |
 | Categoria | Domain Model |
