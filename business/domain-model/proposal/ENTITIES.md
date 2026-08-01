@@ -1,7 +1,7 @@
 # Property Entities
 
 | Campo | Valor |
-| Document ID | DOM-PROP-004|
+| Document ID | DOM-PRO-004|
 | Nome | Property Entities |
 | Domínio | Property |
 | Categoria | Domain Model |
