@@ -10,3 +10,25 @@
 | Autor | Airton Assis |
 | Arquiteto | ChatGPT |
 | Última Atualização | 31/07/2026 |
+
+Property (Aggregate Root)
+
+│
+
+├── Address
+
+├── Images
+
+├── Videos
+
+├── Owners
+
+├── Documents
+
+├── Features
+
+├── Visits
+
+├── Price History
+
+└── Publications

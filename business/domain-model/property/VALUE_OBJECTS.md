@@ -10,3 +10,73 @@
 | Autor | Airton Assis |
 | Arquiteto | ChatGPT |
 | Última Atualização | 31/07/2026 |
+
+## Localização
+
+Address
+
+GeoLocation
+
+Coordinates
+
+CEP
+
+## Financeiro
+
+Money
+
+Commission
+
+PriceRange
+
+## Contato
+
+Phone
+
+Email
+
+Website
+
+## Pessoa
+
+CPF
+
+CNPJ
+
+DocumentNumber
+
+## Medidas
+
+Area
+
+Dimensions
+
+GarageCapacity
+
+RoomCount
+
+## Classificações
+
+PropertyCode
+
+PropertyStatus
+
+PropertyType
+
+PropertyPurpose
+
+## SEO
+
+Slug
+
+MetaTitle
+
+MetaDescription
+
+## Auditoria
+
+CreatedBy
+
+UpdatedBy
+
+AuditInfo
