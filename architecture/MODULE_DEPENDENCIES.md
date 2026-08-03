@@ -1,4 +1,5 @@
-Core
+# Core
+
 ├── Authentication
 ├── Authorization
 ├── Workflow
