@@ -90,3 +90,43 @@ PropertyRented
 ## Observações
 
 Nenhuma entidade poderá alterar Property sem passar pelo Aggregate Root.
+
+## Entity: Property
+
+Document ID: DOM-PROP-002.001
+
+## Purpose
+
+## Responsibilities
+
+## Business Meaning
+
+## Aggregate
+
+## Parent Entity
+
+## Child Entities
+
+## Attributes
+
+## Relationships
+
+## Business Rules
+
+## Validations
+
+## Lifecycle
+
+## Domain Events
+
+## Security
+
+## Audit
+
+## APIs
+
+## Database Mapping
+
+## Integration Points
+
+## Future Evolution
