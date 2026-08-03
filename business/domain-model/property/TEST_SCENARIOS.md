@@ -10,3 +10,12 @@
 | Autor | Airton Assis |
 | Arquiteto | ChatGPT |
 | Última Atualização | 31/07/2026 |
+Caso
+
+Pré-condição
+
+Execução
+
+Resultado esperado
+
+Critério de aceite

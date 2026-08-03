@@ -10,3 +10,25 @@
 | Autor | Airton Assis |
 | Arquiteto | ChatGPT |
 | Última Atualização | 31/07/2026 |
+
+VAL-PROP-001
+
+Título obrigatório.
+
+--------------------
+
+VAL-PROP-002
+
+Preço maior que zero.
+
+--------------------
+
+VAL-PROP-003
+
+Latitude obrigatória.
+
+--------------------
+
+VAL-PROP-004
+
+CEP válido.

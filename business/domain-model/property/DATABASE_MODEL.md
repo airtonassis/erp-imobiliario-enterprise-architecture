@@ -10,3 +10,13 @@
 | Autor | Airton Assis |
 | Arquiteto | ChatGPT |
 | Última Atualização | 31/07/2026 |
+• Modelo conceitual
+• Modelo lógico
+• Modelo físico
+• Chaves
+• Índices
+• Constraints
+• Versionamento
+• Soft Delete
+• Auditoria
+• Multi Tenant
