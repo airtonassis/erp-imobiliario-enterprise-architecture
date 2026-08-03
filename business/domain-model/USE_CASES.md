@@ -1,31 +1,11 @@
-# Politicas
+# oque vamos fazer
 
-UC-001
-Cadastrar imóvel
-
-UC-002
-Editar imóvel
-
-UC-003
-Publicar imóvel
-
-UC-004
-Despublicar imóvel
-
-UC-005
-Arquivar imóvel
-
-UC-006
-Vender imóvel
-
-UC-007
-Alugar imóvel
-
-UC-008
-Registrar visita
-
-UC-009
-Alterar proprietário
-
-UC-010
-Atualizar preço
+UC-PROP-001 — Cadastrar imóvel.
+UC-PROP-002 — Atualizar imóvel.
+UC-PROP-003 — Publicar imóvel.
+UC-PROP-004 — Alterar preço.
+UC-PROP-005 — Reservar imóvel.
+UC-PROP-006 — Registrar visita.
+UC-PROP-007 — Gerenciar propostas.
+UC-PROP-008 — Efetivar venda.
+UC-PROP-009 — Efetivar locação.
