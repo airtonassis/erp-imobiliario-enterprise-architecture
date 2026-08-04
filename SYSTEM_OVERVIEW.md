@@ -25,3 +25,39 @@ Banco
 Infraestrutura
 
 Deploy
+
+## Deve seguir
+
+Cliente
+
+↓
+
+React
+
+↓
+
+API Gateway
+
+↓
+
+ERP Framework
+
+↓
+
+Business Modules
+
+↓
+
+PostgreSQL
+
+Redis
+
+RabbitMQ
+
+↓
+
+Cloudflare
+
+↓
+
+Hostinger VPS

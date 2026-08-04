@@ -84,3 +84,22 @@ Para manter o *Clean Architecture* e o projeto modular sem virar um "código esp
 * **Camada de Shared Kernel/Framework** (Interfaces compartilhadas e DTOs comuns).
 * **Chamadas de API internas** (caso o ERP no futuro seja separado em Microserviços reais).
   
+## como Deve seguir
+
+Property
+
+↓
+
+Publica evento
+
+↓
+
+Contract
+
+↓
+
+Finance
+
+↓
+
+Notification
