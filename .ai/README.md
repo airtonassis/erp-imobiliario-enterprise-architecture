@@ -31,5 +31,4 @@ prompts/
 
 checklists/
 
-memory/
-
+memory
