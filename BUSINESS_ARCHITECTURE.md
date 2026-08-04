@@ -960,3 +960,48 @@ Venda concluída
 A arquitetura foi concebida para evoluir além de um ERP tradicional, transformando-se em uma plataforma digital integrada que conecta proprietários, compradores, locatários, corretores, parceiros financeiros e portais imobiliários em um único ecossistema. Com APIs abertas, microsserviços e um barramento de eventos, novos canais e integrações podem ser adicionados sem impactar os módulos existentes, garantindo escalabilidade, alta disponibilidade e facilidade de manutenção.
 
 Como próxima etapa, eu recomendaria elaborar uma **arquitetura de microsserviços detalhada**, com a divisão dos serviços (CRM, Cadastro, Imóveis, Locação, Financeiro, Integrações, Notificações etc.), contratos de APIs REST/GraphQL, eventos de mensageria e o modelo de banco de dados completo (mais de 150 entidades), servindo como base para o desenvolvimento da solução.
+                  ERP Imobiliário
+                         │
+        ┌────────────────┼────────────────┐
+        │                │                │
+        ▼                ▼                ▼
+ Enterprise        ERP.Framework     Plataforma
+ Architecture
+
+1. Enterprise Architecture
+
+É o repositório que estamos construindo agora.
+
+Ele responde:
+
+O que vamos construir?
+Por quê?
+Como?
+Quais princípios?
+Quais domínios?
+Quais padrões?
+2. ERP.Framework
+
+É o coração técnico.
+
+Ele responderá:
+
+Como implementar?
+Como persistir?
+Como autenticar?
+Como validar?
+Como auditar?
+Como trabalhar com eventos?
+3. ERP Platform
+
+É a aplicação executável.
+
+Backend.
+
+Frontend.
+
+Banco.
+
+Docker.
+
+CI/CD.
