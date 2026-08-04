@@ -2,8 +2,6 @@
 
 GOV-001|Project Charter|Governance|1.0.0|Aprovado|Chatgpt|nâo
 ARC-001|Tech Stack|Architecture|1.0.0|Aprovado|Chatgpt|nâo
-DOM-PROP-001|Property Domain Overview|Property|1.0.0|Draft|Chatgpt|nâo
-DOM-PROP-002|Property Entities|Property|1.0.0|Draft|Chatgpt|nâo
 DOM-PROP-003|Property Value Objects|Property|1.0.0|Draft|Chatgpt|nâo
 DOM-PROP-004|Property Aggregates|Property|1.0.0|Draft|Chatgpt|nâo
 DOM-PROP-007|Property API_Specifications|Property|1.0.0|Draft|Chatgpt|nâo
@@ -14,9 +12,8 @@ DOM-PROP-002|Property  ENTITIES|Property|1.0.0|Draft|Chatgpt|nâo
 DOM-PROP-010|Property  PERMISSIONS|Property|1.0.0|Draft|Chatgpt|nâo
 DOM-PROP-001|Property  README|Property|1.0.0|Draft|Chatgpt|nâo
 DOM-PROP-011|Property  TEST_SCENARIOS|Property|1.0.0|Draft|Chatgpt|nâo
-DOM-PROP-007|Property  USE_CASES|Property|1.0.0|Draft|Chatgpt|nâo
+DOM-PROP-014|Property  USE_CASES|Property|1.0.0|Draft|Chatgpt|nâo
 DOM-PROP-012|Property  VALIDACIONS|Property|1.0.0|Draft|Chatgpt|nâo
-DOM-PROP-003|Property  USE_CASES|Property|1.0.0|Draft|Chatgpt|nâo
 DOM-PROP-013|Property  WORKFLOWS|Property|1.0.0|Draft|Chatgpt|nâo
 DOM-PRO-001|Property Aggregates|Propsal|1.0.0|Draft|Chatgpt|nâo
 DOM-PRO-002|Property  Bussiness_RULLES|Propsal|1.0.0|Draft|Chatgpt|nâo
