@@ -129,3 +129,53 @@ Marketing
 UC-PROP-040 – Gerar anúncio
 UC-PROP-041 – Publicar em portais
 UC-PROP-042 – Destacar imóvel
+
+## UC-PROP-001
+
+Cadastrar imóvel
+
+Objetivo
+
+Fluxo principal
+
+Fluxo alternativo
+
+Pré-condições
+
+Pós-condições
+
+Regras
+
+Eventos
+
+Integrações
+
+Permissões
+
+## UC-002
+
+Editar imóvel
+
+## UC-003
+
+Publicar imóvel
+
+## UC-004
+
+Arquivar imóvel
+
+## UC-005
+
+Pesquisar imóvel
+
+## UC-006
+
+Transferir proprietário
+
+## UC-007
+
+Adicionar mídia
+
+## UC-008
+
+Atualizar preço

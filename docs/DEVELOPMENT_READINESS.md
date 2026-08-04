@@ -1,13 +1,9 @@
-# Status
+# Ele responderá perguntas como
 
-| Item           | Status |
-| Domain Model   | ✅      |
-| Business Rules | ✅      |
-| Use Cases      | ✅      |
-| Database Model | ⏳      |
-| APIs           | ⏳      |
-| Security       | ⏳      |
-| Permissions    | ⏳      |
-| Test Scenarios | ⏳      |
-| OpenAPI        | ⏳      |
-| Deployment     | ⏳      |
+A arquitetura está pronta para desenvolvimento?
+Quais decisões já foram tomadas?
+O que ainda falta definir?
+Quais são os pré-requisitos para iniciar o ERP.Framework?
+Quais padrões são obrigatórios?
+Quais ferramentas serão utilizadas?
+Como validar uma entrega antes de fazer merge?
