@@ -1,4 +1,4 @@
-# Project Charter: ERP Imobiliário
+# Project Overview: Como funciona este ERP
 
 ## 1. Introdução
 
